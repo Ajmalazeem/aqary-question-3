@@ -1,9 +1,9 @@
 # aqary-question-3
 Assesment question number 3 given by aqary international group
 
-// code ncontains only the solution for the given question. adding values to the table is done manually
+// code contains only the solution for the given question. adding values to the table is done manually
 
-// environment variables are not added in gitignore for refernce purpose
+// environment variables are not added in gitignore for reference purpose
 
 question number 3:
 
