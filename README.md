@@ -42,3 +42,7 @@ Output:
 | 5 | Jeames |
 +--------+------------------+
 
+
+output:
+
+![alt text](image.png)
