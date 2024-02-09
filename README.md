@@ -6,7 +6,7 @@ Assesment question number 3 given by aqary international group
 
 question number 3:
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 id is the primary key (unique value) column for this table.
 
@@ -23,17 +23,17 @@ Example 1:
 
 Input:
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 
 output:
 
 for odd number of students
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 for even number of students
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
