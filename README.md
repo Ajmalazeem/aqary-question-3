@@ -7,13 +7,20 @@ Assesment question number 3 given by aqary international group
 question number 3:
 
 ![alt text](image-2.png)
+
 id is the primary key (unique value) column for this table.
+
 Each row of this table indicates the name and the ID of a student.
+
 id is a continuous increment.
-Write a solution to swap the seat id of every two consecutive students. If the number of students is odd, the id of the last student is not swapped.
+
+Write a solution to swap the seat id of every two consecutive students.
+If the number of students is odd, the id of the last student is not swapped.
 Return the result table ordered by id in ascending order.
 The result format is in the following example.
+
 Example 1:
+
 Input:
 
 ![alt text](image-3.png)
