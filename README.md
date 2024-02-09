@@ -6,13 +6,7 @@ Assesment question number 3 given by aqary international group
 
 question number 3:
 
-Table: Seat
-+--------------------------+------------------+
-| Column Name | Type |
-+--------------------------+------------------+
-| id | int |
-| student | varchar |
-+--------------------------+------------------+
+![alt text](image-2.png)
 id is the primary key (unique value) column for this table.
 Each row of this table indicates the name and the ID of a student.
 id is a continuous increment.
@@ -21,26 +15,10 @@ Return the result table ordered by id in ascending order.
 The result format is in the following example.
 Example 1:
 Input:
-Seat table:
-+--------+------------------+
-| id | student |
-+--------+------------------+
-| 1 | Abbot |
-| 2 | Doris |
-| 3 | Emerson |
-| 4 | Green |
-| 5 | Jeames |
-+--------+------------------+
-Output:
-+--------+------------------+
-| id | student |
-+--------+------------------+
-| 1 | Doris |
-| 2 | Abbot |
-| 3 | Green |
-| 4 | Emerson |
-| 5 | Jeames |
-+--------+------------------+
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 
 output:
