@@ -2,6 +2,7 @@
 Assesment question number 3 given by aqary international group
 
 // code ncontains only the solution for the given question. adding values to the table is done manually
+// environment variables are not added in gitignore for refernce purpose
 
 question number 3:
 
