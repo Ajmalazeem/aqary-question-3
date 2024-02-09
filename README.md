@@ -45,4 +45,10 @@ Output:
 
 output:
 
+for odd number of students
+
 ![alt text](image.png)
+
+for even number of students
+
+![alt text](image-1.png)
